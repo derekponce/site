@@ -5,6 +5,11 @@
   excerpt:
   image: Headshot_Beach_120_rectangle.JPG
   
+- title: Blog
+  url: /blog
+  excerpt:
+  image: Blog_rectangle.jpg
+  
 - title: Fashion
   url: /fashion
   excerpt:
