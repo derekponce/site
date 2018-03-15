@@ -1,4 +1,3 @@
-Header: "About Me"
-Testing testing 1 2 3
+Header: About Me
 
-Hyperlink: "instagram.com/drk.96"
+Hyperlink: instagram.com/drk.96
