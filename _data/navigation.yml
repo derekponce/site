@@ -3,7 +3,7 @@
 - title: About Me
   url: /aboutme
   excerpt:
-  image:
+  image: Headshot_Beach.jpg
   
 - title: Fashion
   url: /fashion
@@ -13,7 +13,7 @@
 - title: Fragrances
   url: /fragrances
   excerpt:
-  image:
+  image: Fragrances_Chessboard.jpg
 
 - title: Contact Me
   url: /contactme
