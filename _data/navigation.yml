@@ -4,3 +4,18 @@
   url: /aboutme
   excerpt:
   image:
+  
+    - title: Fashion
+  url: /fashion
+  excerpt:
+  image:
+  
+  - title: Fragrances
+  url: /fragrances
+  excerpt:
+  image:
+
+  - title: Contact Me
+  url: /contactme
+  excerpt:
+  image:
