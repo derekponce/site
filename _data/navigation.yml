@@ -8,12 +8,12 @@
 - title: Fashion
   url: /fashion
   excerpt:
-  image: Fashion.jpg
+  image: Fashion_rectangle.jpg
   
 - title: Fragrances
   url: /fragrances
   excerpt:
-  image: Fragrances_Chessboard.jpg
+  image: Fragrances_Chessboard_rectangle.jpg
 
 - title: Contact Me
   url: /contactme
