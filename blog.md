@@ -2,15 +2,5 @@
 ## Header 2
 ### Header 3
 
----
-layout: {{ layout }}
-title: {{ title }}
-modified:
-categories: {{ dir }}
-excerpt:
-tags: []
-image:
-  feature:
-  teaser:
-  thumb:
----
+[instagram.com/drk.96](url]
+[link](instagram.com/drk.96)
