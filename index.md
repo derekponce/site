@@ -14,11 +14,16 @@ Hi this is the content for my page
 
 <picture>
   <source media="(min-width: 650px)" srcset="
-https://github.com/derekponce/site/blob/gh-pages/images/Pier_DerekEthan.jpg">
+https://derekponce.github.io/site/images/Pier_DerekEthan.JPG">
   <source media="(min-width: 465px)" srcset="
-https://github.com/derekponce/site/blob/gh-pages/images/Pier_DerekEthan.jpg">
-  <img src="Pier_DerekEthan.jpg" alt="Pier" style="width:auto;">
+https://derekponce.github.io/site/images/Pier_DerekEthan.JPG">
+  <img src="https://derekponce.github.io/site/images/Pier_DerekEthan.JPG" alt="Pier" style="width:auto;">
 </picture>
 
+Ignore below this
 
-https://github.com/derekponce/site/blob/gh-pages/images/Pier_DerekEthan.jpg
+<figure class="half">
+	<img src="https://derekponce.github.io/site/images/Fragrance_MostComplimented.JPG">
+	<img src="https://derekponce.github.io/site/images/Fragrance_Winter.jpg">
+	<figcaption>Some of my more popular fragrances. </figcaption>
+</figure>
