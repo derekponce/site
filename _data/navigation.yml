@@ -5,10 +5,10 @@
   excerpt:
   image: Headshot_Beach_120_rectangle.JPG
 
-- title: About Me
-  url: /aboutme
-  excerpt:
-  image: Headshot_Beach_120_rectangle.JPG
+# title: About Me
+# url: /aboutme
+# excerpt:
+# image: Headshot_Beach_120_rectangle.JPG
   
 - title: Blog
   url: /blog
