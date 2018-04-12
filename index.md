@@ -17,7 +17,6 @@ title: "Home"
   <figcaption><center>A small photo reel.</center></figcaption>
 </figure>
 
-<h1><center>Welcome.</center></h1>
 ### About Me
 
 
