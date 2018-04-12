@@ -1,7 +1,9 @@
 # My Blog
 
 ### April 2018
-<hr>
+<center>
+  <hr>
+</center> 
 #### The 11th
 I assume that this text appears as plain body text. I'm still trying to find out all of the syntax for laying out my pages, but it seems I've found a few sites that help out with that.
 
