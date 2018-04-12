@@ -1,5 +1,10 @@
 # Shop
-![Fragrances](/images/Fragrance_MostComplimented.JPG)
+
+<figure class="half">
+	<img src="https://mmistakes.github.io/skinny-bones-jekyll/images/Fragrance_MostComplimented.JPG">
+	<img src="https://mmistakes.github.io/skinny-bones-jekyll/images/Fragrance_Winter.jpg">
+	<figcaption>Some of my more popular fragrances. </figcaption>
+</figure>
 
 Welcome to my online fragrance store. Here, you can help yourself to almost any fragrance in my collection in quantities of 1.5 mL, 5 mL, or 10 mL samples. Each order will be pipetted into a quality decant that will allow you to carry your fragrance wherever you may be going. 
 
@@ -13,3 +18,4 @@ Welcome to my online fragrance store. Here, you can help yourself to almost any 
 | Yves Saint Laurent La Nuit  | Cardamom, bergamot, and lavendar | One of the greatest date night fragrances ever created | 
 
 
+![Fragrances](/images/Fragrance_MostComplimented.JPG)
