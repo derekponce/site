@@ -14,7 +14,7 @@ title: "Home"
 	<img src="https://derekponce.github.io/site/images/Pier_DerekEthan.jpg">
 	<img src="https://derekponce.github.io/site/images/Derek_Sushi.jpg">
 	<img src="https://derekponce.github.io/site/images/Family_DerekMo.jpg">
-  <figcaption><center>A small photo reel.</center></figcaption>
+  <figcaption><center>A small photo reel featuring some of the highlights of this past year.</center></figcaption>
 </figure>
 
 ### About Me
