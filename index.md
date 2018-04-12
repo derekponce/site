@@ -11,19 +11,17 @@ title: "Home"
 </div><!-- /.tiles -->
 
 Hi this is the content for my page
-
-<picture>
-  <source media="(min-width: 650px)" srcset="
-https://derekponce.github.io/site/images/Pier_DerekEthan.JPG">
-  <source media="(min-width: 465px)" srcset="
-https://derekponce.github.io/site/images/Pier_DerekEthan.JPG">
-  <img src="https://derekponce.github.io/site/images/Pier_DerekEthan.JPG" alt="Pier" style="width:auto;">
-</picture>
+<figure>
+	<img src="https://derekponce.github.io/site/images/Pier_DerekEthan.jpg">
+	<figcaption>Blank</figcaption>
+</figure>
 
 Ignore below this
 
-<figure class="half">
-	<img src="https://derekponce.github.io/site/images/Fragrance_MostComplimented.JPG">
-	<img src="https://derekponce.github.io/site/images/Fragrance_Winter.jpg">
-	<figcaption>Some of my more popular fragrances. </figcaption>
-</figure>
+<picture>
+  <source media="(min-width: 650px)" srcset="
+https://derekponce.github.io/site/images/Pier_DerekEthan.jpg">
+  <source media="(min-width: 465px)" srcset="
+https://derekponce.github.io/site/images/Pier_DerekEthan.jpg">
+  <img src="https://derekponce.github.io/site/images/Pier_DerekEthan.jpg" alt="Pier" style="width:auto;">
+</picture>
