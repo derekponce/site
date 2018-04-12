@@ -4,7 +4,6 @@ permalink: /blog/
 title: "My Blog"
 ---
 
-# My Blog
 ### April 2018
 <hr>
 ##### April 11th
