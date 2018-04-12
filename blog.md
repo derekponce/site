@@ -13,4 +13,4 @@ The main reason for the sudden push to make this page is that my brand is growin
 
 <hr>
 ##### Keep Up With Me On Social Media:
-[My Instagram](instagram.com/drk.96)
+[My Instagram](https://www.instagram.com/drk.96)
