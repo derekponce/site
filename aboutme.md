@@ -6,5 +6,5 @@ title: "About Me"
 
 Blank for now.
 
-[My Instagram](instagram.com/drk.96)
+[My Instagram](https://www.instagram.com/drk.96)
 
