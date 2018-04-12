@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink: /
+permalink: /aboutme/
 title: "About Me"
 ---
 
