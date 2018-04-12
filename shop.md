@@ -20,6 +20,3 @@ Welcome to my online fragrance store. Here, you can help yourself to almost any 
 | Creed Aventus ![Creed Aventus](/images/Fragrance_AventusHarvard.jpg)  | Pineapple, apple, birch | The best fragrance ever | 
 | Dior Homme Intense  | Iris, chocolate, vanilla | Great close quarters fragrance | 
 | Yves Saint Laurent La Nuit  | Cardamom, bergamot, lavendar | One of the greatest date night fragrances ever created | 
-
-
-![Fragrances](/images/Fragrance_MostComplimented.JPG)
