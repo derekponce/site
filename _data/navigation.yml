@@ -1,5 +1,10 @@
 # Site navigation links
 
+- title: Home
+  url: /index
+  excerpt:
+  image: Headshot_Beach_120_rectangle.JPG
+
 - title: About Me
   url: /aboutme
   excerpt:
@@ -28,4 +33,4 @@
 - title: Contact Me
   url: /contactme
   excerpt:
-  image: 
+  image: Headshot_Beach_120_rectangle.JPG
