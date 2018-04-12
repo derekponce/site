@@ -10,7 +10,7 @@ title: "Shop"
 	<figcaption>Some of my more popular fragrances. </figcaption>
 </figure>
 
-Welcome to my online fragrance store. Here, you can help yourself to almost any fragrance in my collection in quantities of 1.5 mL, 5 mL, or 10 mL samples. Each order will be pipetted into a quality decant that will allow you to carry your fragrance wherever you may be going. 
+Welcome to my online fragrance store. Here, you can help yourself to almost any fragrance in my collection in samples of sizes 1.5 mL, 5 mL, or 10 mL samples. Each order will be pipetted into a quality decant that will allow you to carry your fragrance wherever you may be going. 
 
 | Fragrance Name | Most Prominent Notes | Review | Order |
 |:---:|:---:|:---:|:---:|
