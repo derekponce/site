@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink: /shop
+permalink: /shop/
 title: "Shop"
 ---
 
