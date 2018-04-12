@@ -2,7 +2,6 @@
 layout: archive
 permalink: /
 title: "Home"
-content: "Hi this is the content for my page"
 ---
 
 <div class="tiles">
@@ -10,6 +9,8 @@ content: "Hi this is the content for my page"
 	{% include post-grid.html %}
 {% endfor %}
 </div><!-- /.tiles -->
+
+Hi this is the content for my page
 
 <picture>
   <source media="(min-width: 650px)" srcset="
