@@ -1,4 +1,8 @@
-# Shop
+---
+layout: archive
+permalink: /
+title: "Shop"
+---
 
 <figure class="half">
 	<img src="https://derekponce.github.io/site/images/Fragrance_MostComplimented.JPG">
