@@ -1,8 +1,8 @@
 # Shop
 
 <figure class="half">
-	<img src="https://derekponce.github.io/skinny-bones-jekyll/images/Fragrance_MostComplimented.JPG">
-	<img src="https://derekponce.github.io/images/Fragrance_Winter.jpg">
+	<img src="https://derekponce.github.io/site/images/Fragrance_MostComplimented.JPG">
+	<img src="https://derekponce.github.io/site/images/Fragrance_Winter.jpg">
 	<figcaption>Some of my more popular fragrances. </figcaption>
 </figure>
 
