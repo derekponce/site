@@ -1,3 +1,9 @@
+---
+layout: archive
+permalink: /
+title: "My Blog"
+---
+
 # My Blog
 ### April 2018
 <hr>
