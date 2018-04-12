@@ -14,7 +14,7 @@ title: "Home"
 	<img src="https://derekponce.github.io/site/images/Pier_DerekEthan.jpg">
 	<img src="https://derekponce.github.io/site/images/Derek_Sushi.jpg">
 	<img src="https://derekponce.github.io/site/images/Family_DerekMo.jpg">
-  <figcaption><center>Welcome.</center></figcaption>
+  <figcaption><center>Welcome. </center></figcaption>
 </figure>
 
 
